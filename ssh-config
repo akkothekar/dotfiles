@@ -1,0 +1,5 @@
+# Logging into CAEN
+Host akik
+	HostName login.engin.umich.edu
+	Host akik
+	Compression yes
